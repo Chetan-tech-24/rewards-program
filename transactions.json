@@ -1,0 +1,22 @@
+
+
+[
+  {
+    "customerId": 1,
+    "transactions": [
+      { "amount": 120, "date": "2024-06-01" },
+      { "amount": 75, "date": "2024-06-15" },
+      { "amount": 200, "date": "2024-07-01" }
+    ]
+  },
+  {
+    "customerId": 2,
+    "transactions": [
+      { "amount": 50, "date": "2024-06-01" },
+      { "amount": 150, "date": "2024-06-20" },
+      { "amount": 100, "date": "2024-07-10" }
+    ]
+  }
+]
+
+
